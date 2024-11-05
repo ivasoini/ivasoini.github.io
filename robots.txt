@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ivasoini.github.io/EIj/sitemap_index.txt
+Sitemap: https://ivasoini.github.io/jFq/sitemap_index.txt
+Sitemap: https://ivasoini.github.io/kJA/sitemap_index.txt
+Sitemap: https://ivasoini.github.io/wZT/sitemap_index.txt
